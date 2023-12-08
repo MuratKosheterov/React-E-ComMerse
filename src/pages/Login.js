@@ -26,10 +26,15 @@ function Login({ setToken }) {
   }
 
   return (
-    <div className=" py-5 mt-5">
+    <div className="login">
+    <div className="container">
+      <div className="row">
+        <div className="col"></div>
+        <div className="col-sm-12 col-md-8 col-lg-4">
+        <div className=" py-5 mt-5">
       <form
         onSubmit={onFormSubmit}
-        className=" col-4  d-flex  flex-column  shadow  bg-dark   p-5  mx-auto "
+        className="d-flex  flex-column  shadow  bg-dark   p-5  mx-auto "
       >
         <div className=" ">
           <h1 className=" text-light ">Войти</h1>
@@ -72,6 +77,11 @@ function Login({ setToken }) {
           Создать новый аккаунт ?<i className="bi bi-person-plus ms-3"></i>
         </p>
       </form>
+    </div>
+        </div>
+        <div className="col"></div>
+      </div>
+    </div>
     </div>
   );
 }

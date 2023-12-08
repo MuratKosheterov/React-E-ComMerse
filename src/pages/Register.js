@@ -30,7 +30,7 @@ function Register() {
       <div className="container pt-5 ">
         <div className="row mt-5">
           <div className="col"></div>
-          <div className="col my-5  bg-dark  text-light p-5 ">
+          <div className="col-sm-12 col-md-8 col-lg-4 my-5  bg-dark  text-light p-5 ">
             <h1 className=" border-bottom  border-light  pb-2">Registration</h1>
             <form onClick={handleSubmit}>
               <div className="mb-4">
@@ -90,7 +90,7 @@ function Register() {
               </button>
             </form>
           </div>
-          <div className="col  "></div>
+          <div className="col"></div>
         </div>
       </div>
     </div>
