@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MuratKosheterov/React-E-ComMerse/static/css/main.18aad229.css",
+    "main.js": "/MuratKosheterov/React-E-ComMerse/static/js/main.5af9dda4.js",
+    "static/js/787.ad2cdb3f.chunk.js": "/MuratKosheterov/React-E-ComMerse/static/js/787.ad2cdb3f.chunk.js",
+    "static/media/6.png": "/MuratKosheterov/React-E-ComMerse/static/media/6.51144bb957081ccd1164.png",
+    "static/media/banner.png": "/MuratKosheterov/React-E-ComMerse/static/media/banner.fd2e8416d079c5b07c32.png",
+    "static/media/5.png": "/MuratKosheterov/React-E-ComMerse/static/media/5.31cb06473ff6efc1d97b.png",
+    "static/media/2.png": "/MuratKosheterov/React-E-ComMerse/static/media/2.1b619be7e383f464eb96.png",
+    "static/media/4.png": "/MuratKosheterov/React-E-ComMerse/static/media/4.3e53eaed8f95f2ffd116.png",
+    "static/media/3.png": "/MuratKosheterov/React-E-ComMerse/static/media/3.42c4092a801e8baeabe9.png",
+    "index.html": "/MuratKosheterov/React-E-ComMerse/index.html",
+    "main.18aad229.css.map": "/MuratKosheterov/React-E-ComMerse/static/css/main.18aad229.css.map",
+    "main.5af9dda4.js.map": "/MuratKosheterov/React-E-ComMerse/static/js/main.5af9dda4.js.map",
+    "787.ad2cdb3f.chunk.js.map": "/MuratKosheterov/React-E-ComMerse/static/js/787.ad2cdb3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18aad229.css",
+    "static/js/main.5af9dda4.js"
+  ]
+}
